@@ -1,4 +1,4 @@
-# Pipe_IPC_Program
+# Pipe IPC Program (Word Counter)
 This program is a C language implementation of a simple Inter-Process communication (IPC) using a pipe. 
 The program reads the content of a file, sends it through the pipe to another process, and counts the number of words in the file.
 
