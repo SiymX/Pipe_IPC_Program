@@ -1,3 +1,6 @@
+![pipeipcGIT](https://github.com/SiymX/Pipe_IPC_Program/assets/63435885/edf674d0-588b-4ae6-b40b-1fe385dccc54)
+
+
 # Pipe IPC Program (Word Counter)
 This program is a C language implementation of a simple Inter-Process communication (IPC) using a pipe. 
 The program reads the content of a file, sends it through the pipe to another process, and counts the number of words in the file.
